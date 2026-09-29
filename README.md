@@ -12,12 +12,6 @@ The design was first simulated in LTspice to verify circuit behavior and wavefor
 
 ## LTspice Simulation
 
-## LTspice Simulation File
-
-The original LTspice schematic is included in the repository for inspection and simulation.
-
-[Open the LTspice schematic](simulation/PWM_PPM_Modulation_Circuit.asc)
-
 ### Circuit Schematic
 
 ![LTspice Schematic](images/LTspice_Schematic.png)
@@ -63,6 +57,12 @@ The design was first verified in LTspice before being implemented on a breadboar
 ### PPM Output
 
 ![PPM Output](images/Oscilloscope_PPM.jpg)
+
+## LTspice Simulation File
+
+The original LTspice schematic is included in the repository for inspection and simulation.
+
+[Open the LTspice schematic](simulation/PWM_PPM_Modulation_Circuit.asc)
 
 ## Tools Used
 
